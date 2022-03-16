@@ -1,2 +1,2 @@
 # ProjetoBucks
- <h1> Landing Page Starbucks HTML5, CSS, JAVA SCRIPT </h1>
+ <h1> Landing Page do Starbucks usando HTML5, CSS3 e Java Script </h1>
