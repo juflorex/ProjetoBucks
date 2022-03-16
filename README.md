@@ -1,2 +1,2 @@
 # ProjetoBucks
- Lading page estilo starbucks
+ <h1> Landing Page Starbucks HTML5, CSS, JAVA SCRIPT </h1>
